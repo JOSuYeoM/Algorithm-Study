@@ -1,3 +1,4 @@
-w,n= input().split(0
-                   n=int()
-                   print(w*n) 
+w, n = input().split()
+print(w*int(n))
+
+
